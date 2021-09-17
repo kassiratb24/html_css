@@ -1,0 +1,41 @@
+.centr{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+}
+.tr{
+    background: #F35D51;
+    font-family: Proxima Nova;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+color: white;
+text-decoration: none;
+}
+td:first-child{
+    font-family: Proxima Nova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #626262;
+}
+td:last-child{
+    font-family: Proxima Nova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: right;
+
+color: #313A59;
+
+}
+.color{
+    color: #F35D51;
+    text-decoration: none;
+}
